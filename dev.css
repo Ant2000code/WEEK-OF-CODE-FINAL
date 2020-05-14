@@ -1,0 +1,16 @@
+.start{
+    position: absolute;
+    top: 52%;
+    left: 30%;
+    border-style:outset ;
+    height: 80px;
+    width: 150px;
+    font-size: xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(248, 96, 85);
+    border-width: 5px;
+    text-decoration: none;
+    padding-left: 5;
+    border-color: black;
+    
+}
